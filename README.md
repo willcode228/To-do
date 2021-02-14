@@ -1,10 +1,4 @@
 # To-do
 Easy to-do web app
-In future I goin to add these posibiblities:
-
-    -rewriting or changing the task
-    -change the status of comleted tasks to uncompleted
-    -add different animations
-    -posibilitie to set the date of adding the task
-    -create cloud sign for all devices of user
-    
+That have some futures. If in the your task you will write any prefix(!,?,https,http) the text of this task after adding it to the list will be colored in different colours.
+And if you will write link to the task you can clicked on it like on the simple link not like the text.
